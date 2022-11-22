@@ -27,6 +27,7 @@ Este projeto tem como dependência:
 ## Rotas
 
 **Post** /user (Cadastra um usuário).
+
 **Get** /users (Busca todos os usuários cadastrados).
 
 Pronto, agora o sistema já está disponível para testes nas rotas descritas acima. =)
